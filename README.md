@@ -42,7 +42,7 @@ mkdir vagrant && cd vagrant
 git clone https://github.com/borahuho/DevOps21
 cd DevOps21
 vagrant up
-vagrant ssh master
+vagrant ssh manager
 ```
 ## Mission
 
